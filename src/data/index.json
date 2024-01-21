@@ -1,0 +1,44 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "title": "Programming Languages",
+        "description": "Java, Python, HTML, CSS, JavaScript, R, SQL."
+      },
+      {
+        "id": "2",
+        "title": "Framework/Tools",
+        "description": "Bootstrap, EJS, Express, Git, GitHub, React, MongoDB, Node.js, VS Code."
+      },
+      {
+        "id": "3",
+        "title": "Libraries",
+        "description": "NumPy, Pandas, Matplotlib, NLTK, Scipy, SciKit-Learn, Seaborn."
+      },
+      {
+        "id": "4",
+        "title": "Soft Skills",
+        "description": "Collaboration, Event Planning, Leadership, Organization, Time Management."
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "title": "PDF2IMG Application",
+        "description": "A converter tool that allows users to enter the directory of a PDF file and convert it into a PNG image file.",
+        "link": "https://github.com/myadang04/pdf2img"
+      },
+      {
+        "id": "2",
+        "title": "Expense Tracker Application",
+        "description": "A web browser that allows users to record every transaction including expenses and income in order to keep track of their spending habits.",
+        "link": "https://myadang04.github.io/expense-tracker/"
+      },
+      {
+        "id": "3",
+        "title": "Notes Application",
+        "description": "A web browser that allows users to create, update, and search for notes in an organized and attractive dashboard.",
+        "link": "https://github.com/myadang04/notes-taking-application"
+      }
+    ]
+}
